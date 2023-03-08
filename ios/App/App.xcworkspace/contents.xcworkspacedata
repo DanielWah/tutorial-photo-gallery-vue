@@ -5,6 +5,7 @@
       location = "group:App.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:Pods/Pods.xcodeproj">
+      location = "group:App"
+      assignedFileDataType = "public.python-script">
    </FileRef>
 </Workspace>
